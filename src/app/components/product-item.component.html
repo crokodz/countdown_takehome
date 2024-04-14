@@ -1,0 +1,15 @@
+<section class="listing">
+  <div class="table">
+    <div class="row">
+      <div>
+        <img
+          class="listing-photo"
+          [src]="productItem.thumbnail?.lqip"
+          alt="{{productItem.thumbnail?.alt_text}}" />
+      </div>
+      <div>{{ productItem?.title }}</div>
+      <div>Price: ${{ productItem?._price}}</div>
+      <div>{{ productItem?.timestamp|date}}</div>
+    </div>
+  </div>
+</section>

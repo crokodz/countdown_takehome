@@ -1,0 +1,324 @@
+{
+    "preference": null,
+    "pagination": {
+        "total": 7430,
+        "limit": 20,
+        "offset": 0,
+        "total_pages": 372,
+        "current_page": 1
+    },
+    "data": [
+        {
+            "_price": 136.36578,
+            "thumbnail": {
+                "alt_text": "A bronze lion, deep green and muscular, looks out in the distance from its pedestal in front of the Art Institute of Chicago.",
+                "width": 8430,
+                "lqip": "data:image\/gif;base64,R0lGODlhCAAFAPUAADY5NTQ\/PkI4IT1COjtEQkNHQk5YWFteWWtkTmtoX291WnJ1WX1xZ355cYZ3Zn+Cf42KaoWEeJOKfpeWcoCEgI2OiJaQgp+XgpWRiJWTjKKbjqqhkK+olbGml7q0q7e2sMG5rcbAs8fBuMrGv8\/HvsnJud3d3evr7gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQJPnIwKRQpPTyPDgQDaC0gUQIAwsDISjcUgUMB2JpkLJRBSLIAA7",
+                "height": 5620
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/656",
+            "id": 656,
+            "title": "Lion (One of a Pair, South Pedestal)",
+            "timestamp": "2024-04-13T23:27:08-05:00"
+        },
+        {
+            "_price": 118.86436,
+            "thumbnail": {
+                "alt_text": "A work made of oil on board.",
+                "width": 6486,
+                "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAACUiHCckHSghGi4nGislHi0mHjMvJDUuJDUwITcwIz07LUY+LUhALktGNExGNFFINGhYOWdcQXVlRYRmSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4EAwC3JMjxJJhgM1QSEkQAgAOw==",
+                "height": 7661
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/117241",
+            "id": 117241,
+            "title": "Girl with Cat",
+            "timestamp": "2024-04-03T16:35:47-05:00"
+        },
+        {
+            "_price": 116.40413,
+            "thumbnail": {
+                "alt_text": "A work made of oil on cardboard.",
+                "width": 4603,
+                "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAAFpcVVthVGBgSndvSW5hUWtlWHJvVWxpYHJ1bYd+an2Feo6Da4iGcZmTfqWdi6SgkK+rnLS7q7u4qb68rAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBIIQ8QQBlIsDXAkzjNJUAgAOw==",
+                "height": 5060
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/45259",
+            "id": 45259,
+            "title": "Nude with Cats",
+            "timestamp": "2024-04-13T23:28:57-05:00"
+        },
+        {
+            "_price": 103.953964,
+            "thumbnail": {
+                "alt_text": "A color woodblock print of two orangeand white cats with pink noses represented in cubist-like design against a blue, gray and black background",
+                "width": 1645,
+                "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAACAmNC0wPW1VOTw\/SVlWUXBlVnV2doVnQ494WYx8aI+BboWAedipa4iOlYyQlI+UmaabkLKpmta2jKi52wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoAJNw5IUQEMggWNIwhMxRwgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/16227",
+            "id": 16227,
+            "title": "Cat Making Up",
+            "timestamp": "2024-01-11T11:33:11-06:00"
+        },
+        {
+            "_price": 98.52001,
+            "thumbnail": {
+                "alt_text": "A work made of watercolor and gouache, over touches of graphite, on cream wove paper.",
+                "width": 1754,
+                "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAAJB4cbqIcIp\/irSQgrWXhbScjbGZlqqdqqicr66iusCklcGpm7m0zb+409LH0NPF09XJ1tbL1tnM2d7P3wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYCRBDtNMD5IIxxAARkEoSwgAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/22482",
+            "id": 22482,
+            "title": "Homesickness",
+            "timestamp": "2024-04-13T23:22:53-05:00"
+        },
+        {
+            "_price": 93.96552,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in 6 colors (red, ochre, yellow, black, gray-brown, brown) from two stones, with scraping on stone, on ivory wove paper.",
+                "width": 2928,
+                "lqip": "data:image\/gif;base64,R0lGODlhBgAFAPQAAEI9JFFFLV5QPWVaOn1VR31rUHhpV3BnXHprWYBhRpJgUIdyU6VqW6pxXKR5WId9b458bcBvZcdwaM14btR3b9V8c9F\/eI6Dc6uHeqKSfcORhtiVjdmWjt6ZkAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4GUgxZI9QgAk2jE4CrNBhFVRHdZMkcSFADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/51719",
+            "id": 51719,
+            "title": "Winter: Cat on a Cushion",
+            "timestamp": "2024-01-29T19:55:56-06:00"
+        },
+        {
+            "_price": 92.503395,
+            "thumbnail": {
+                "alt_text": "A work made of gold, enamel, and baroque pearl.",
+                "width": 2911,
+                "lqip": "data:image\/gif;base64,R0lGODlhBgAFAPQAAKGJbLOYdbKafMGhdJ6fn6eWgLSgiLCnnKKhoaWjpKakpaelpqenp66wtbKwsbSztLW0tLi3uLe5v7y9vsasjsO6ssK9vMPAvsfBvMXBwMTCwsLCxcjIyO3m3wAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYILMoCUJAjxMczXR1QyFtBiUAEYdVVqaFADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/119335",
+            "id": 119335,
+            "title": "Baroque Pearl Mounted as a Cat Holding a Mouse",
+            "timestamp": "2024-01-11T11:56:36-06:00"
+        },
+        {
+            "_price": 92.11665,
+            "thumbnail": {
+                "alt_text": "A work made of hand-colored woodblock print; tan-e, vertical o-oban.",
+                "width": 2039,
+                "lqip": "data:image\/gif;base64,R0lGODlhAwAFAPMAAK+RdLmlgryjhrCgiL2oj8KymsWzmMq2msvArMvBrNDBrNDGsdjLtNnOtwAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLMLFmRCvhDECWQhEAOw==",
+                "height": 3800
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/158921",
+            "id": 158921,
+            "title": "Courtesan Playing with a Cat",
+            "timestamp": "2024-01-11T12:06:45-06:00"
+        },
+        {
+            "_price": 91.20555,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph in black on ivory wove paper, laid down on ivory cloth.",
+                "width": 1767,
+                "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAAC0nHFpSRH92Z4V+boyDdJOId6KWh6GYiaacjKidja6lkq6klLKolrmunb6zosO4psK6qMe6qNHEstPItwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYIQs0zMojQBARxEwhOQkRggAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/68825",
+            "id": 68825,
+            "title": "The Cats' Rendezvous",
+            "timestamp": "2024-04-13T23:28:43-05:00"
+        },
+        {
+            "_price": 89.3823,
+            "thumbnail": {
+                "alt_text": "A work made of lithograph (brush, crayon and spatter with scraper) in pink\/mauve, violet black and brown on cream wove paper.",
+                "width": 3000,
+                "lqip": "data:image\/gif;base64,R0lGODlhBgAFAPQAAGFKRWlPSGdXUWxaU6VuXIlvY5RvYIZwZpt2Z5V3ap9\/b6h4ZpqEd6SAb7CAbLaEb6WFdMuVfL2ZhsCXg8eZgN25oNrCreXBqOnFqufLs+fOtu7Sue3dx+\/jzwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIGdtGXZ1xyAUlZYECMBMxBMZirQ4VAOFADs=",
+                "height": 2416
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/51724",
+            "id": 51724,
+            "title": "Summer: Cat on a Balustrade",
+            "timestamp": "2024-01-11T11:41:27-06:00"
+        },
+        {
+            "_price": 89.2274,
+            "thumbnail": {
+                "alt_text": "A work made of wood and plaster.",
+                "width": 1500,
+                "lqip": "data:image\/gif;base64,R0lGODlhAwAFAPMAAGlQQXhiVG9yfZF9b4eAgJaKh4KGkKOXk6SZlJKWoaehoaKiqKmorbK5x+Tn8AAAACH5BAAAAAAALAAAAAADAAUAAAQL0BDBRkKhFbDcUREAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/5522",
+            "id": 5522,
+            "title": "Cat Coffin",
+            "timestamp": "2024-04-13T23:27:56-05:00"
+        },
+        {
+            "_price": 88.961876,
+            "thumbnail": {
+                "alt_text": "A work made of engraving on ivory paper.",
+                "width": 3000,
+                "lqip": "data:image\/gif;base64,R0lGODlhBgAFAPQAADs2K0I9MkM\/NFJNPFhSQV1XRGFaSGJcTGVfT2dhTWhhTW5nU25nVm9oV29pWXFqVXFrWXZuWHdwW3hwXoN6X4Z9YoR7ZIR7ZYZ9ZZCHcK6kibWrj8e8n8m\/oQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYILRUlIIwwVAYxwREhHU1wpNgksZ1W+aEADs=",
+                "height": 2305
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/9372",
+            "id": 9372,
+            "title": "The Large Cat",
+            "timestamp": "2024-01-11T11:31:45-06:00"
+        },
+        {
+            "_price": 86.92027,
+            "thumbnail": {
+                "alt_text": "A work made of pastel, over charcoal, with stumping, on tan wove paper, edge-mounted to board.",
+                "width": 4609,
+                "lqip": "data:image\/gif;base64,R0lGODlhBQAFAPQAADw\/PExKOFBPPlFRPltZP1BOTFxbR11XUFtXVGBeQGBaU2BbVWZiQ2RgTGlkU2pkYG1pYHRxYXt4ZnNzaX59cYGBZouJhZibm5idmQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYDIIhkMAxYIwQWQpzYRdByRV1BMCADs=",
+                "height": 4259
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/50087",
+            "id": 50087,
+            "title": "The Cat Boat",
+            "timestamp": "2024-04-13T23:28:41-05:00"
+        },
+        {
+            "_price": 83.77306,
+            "thumbnail": {
+                "alt_text": "A work made of pastel, over charcoal, with stumping, on tan wove paper, edge-mounted to board.",
+                "width": 4609,
+                "lqip": "data:image\/gif;base64,R0lGODlhBQAFAPQAADw\/PExKOFBPPlFRPltZP1BOTFxbR11XUFtXVGBeQGBaU2BbVWZiQ2RgTGlkU2pkYG1pYHRxYXt4ZnNzaX59cYGBZouJhZibm5idmQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYDIIhkMAxYIwQWQpzYRdByRV1BMCADs=",
+                "height": 4259
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/185817",
+            "id": 185817,
+            "title": "Cats Playing",
+            "timestamp": "2024-01-11T12:08:21-06:00"
+        },
+        {
+            "_price": 83.47326,
+            "thumbnail": {
+                "alt_text": "A work made of bronze.",
+                "width": 2733,
+                "lqip": "data:image\/gif;base64,R0lGODlhBgAFAPQAAA4ODhUVFRYWFhwcHB0dHTQ0NDY2Njc3Nzs7Oz8\/P0xMTE5OTmhoaHNzc3h4eIODg4yMjJmZmZqamqOjo6mpqbm5uby8vMbGxsjIyMnJycvLy87Ozs\/PzwAAAAAAAAAAACH5BAAAAAAAIf8LSW1hZ2VNYWdpY2sOZ2FtbWE9MC40NTQ1NDUALAAAAAAGAAUAAAUY4BVJG4dNiKA4lmMMAcBUC1E0VPYkB6SFADs=",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/70989",
+            "id": 70989,
+            "title": "Lion",
+            "timestamp": "2024-01-11T11:45:25-06:00"
+        },
+        {
+            "_price": 82.43708,
+            "thumbnail": {
+                "alt_text": "A work made of gelatin silver print.",
+                "width": 1845,
+                "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAADgxKz02MD43MUI7M0M8NEM8NUU+NktEO0tEPFRNRVlSSF9YTWVeVGhhVmpjWHlxZHlyZoJ7boiBc5CJegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4ONEwQQtRiMdA8EkiAAUSggAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/55468",
+            "id": 55468,
+            "title": "Negative Cat",
+            "timestamp": "2024-03-18T16:40:24-05:00"
+        },
+        {
+            "_price": 80.46197,
+            "thumbnail": {
+                "alt_text": "A work made of color woodblock print; chuban.",
+                "width": 2231,
+                "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAAGRZQXBkSX9wRox9Upp9VJKDWqGNUqGCWJiHZJ+Pa6SOaLKNYKSXbaaefKygeraqh7uuhr+yj7+1lce8nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoMM8EnFE06I0UJEgxhAAQggAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/21177",
+            "id": 21177,
+            "title": "Cat Pawing at Goldfish",
+            "timestamp": "2024-01-11T11:34:18-06:00"
+        },
+        {
+            "_price": 79.64568,
+            "thumbnail": {
+                "alt_text": "A work made of cotton, plain weave; embroidered with wool (camelid) in stem stitches.",
+                "width": 5128,
+                "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAAE8yLFc5MlY7Nlw\/OWNFPmNMR35nY4Nua4Rxbop4dY9+e5GBfJGBfZSCf5yOjJ+QirOqp7Spp9vX19\/b2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBFBR9AkAPEsg8AoBeJMUggAOw==",
+                "height": 6777
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/2990",
+            "id": 2990,
+            "title": "Border Fragments",
+            "timestamp": "2024-04-13T23:22:05-05:00"
+        },
+        {
+            "_price": 79.55639,
+            "thumbnail": {
+                "alt_text": "A work made of watercolor on cream laid paper, laid down on cream japanese paper.",
+                "width": 1321,
+                "lqip": "data:image\/gif;base64,R0lGODlhAwAFAPMAAJ+PbZ2NboiKfZeKdamOcaWTcqOTda6ad6OVfK+afr6hfbCggtSwhNGwitm3jAAAACH5BAAAAAAALAAAAAADAAUAAAQLcBFURjAiHaAacxEAOw==",
+                "height": 2250
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/62735",
+            "id": 62735,
+            "title": "Still Life with Cat",
+            "timestamp": "2024-04-13T23:28:37-05:00"
+        },
+        {
+            "_price": 79.22007,
+            "thumbnail": {
+                "alt_text": "A work made of color woodblock print.",
+                "width": 1752,
+                "lqip": "data:image\/gif;base64,R0lGODlhAwAFAPMAAEdGP05KOV1WPWlcMFRRRmpiSWtjS3luRnBvYnd3bYV2R4d7Vol7UouHdKGbhAAAACH5BAAAAAAALAAAAAADAAUAAAQL0C2GREnjtKAIMBEAOw==",
+                "height": 3000
+            },
+            "api_model": "artworks",
+            "is_boosted": false,
+            "api_link": "http://efrenvaldez.pro\/16145",
+            "id": 16145,
+            "title": "Black Cat",
+            "timestamp": "2024-01-11T11:33:10-06:00"
+        }
+    ],
+    "info": {
+        "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/",
+            "https:\/\/www.artic.edu\/terms"
+        ],
+        "version": "1.10"
+    },
+    "config": {
+        "iiif_url": "https:\/\/www.artic.edu\/iiif\/2",
+        "website_url": "http:\/\/www.artic.edu"
+    }
+}
