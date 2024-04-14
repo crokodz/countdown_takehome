@@ -1,13 +1,13 @@
-###  ProductList
+##  ProductList
 
 This application demonstrates different products, focussing on ngRx state managment, 100% code coverage using jest and cypress tests, eslint.
 
 
-#### Prerequisites
+## Prerequisites
 * [NodeJs](https://nodejs.org/en/download/)
 * [VsCode](https://code.visualstudio.com/)
 
-#### Built With
+## Built With
 
 * [Angular](https://angular.io/)
 * [NgRx](https://ngrx.io/)
@@ -16,7 +16,7 @@ This application demonstrates different products, focussing on ngRx state managm
 * HTML, CSS, Javascript
 
 
-#### Privacy Policy
+## Privacy Policy
 
 See the [Privacy Policy](Privacy%20Policy.md).md file for details
 
