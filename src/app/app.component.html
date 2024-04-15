@@ -6,11 +6,16 @@
 </ng-container>
 
 <ng-template #productList>
-  <input class="border border-black" type="text" [(ngModel)]="filterValue" />
-  <select>
-    <option>By Date</option>
-    <option>By Name</option>
-  </select>
+  <div class="results">
+    <section>
+      <input class="border border-black search" type="text" [(ngModel)]="filterValue" />
+      <select class="sort" (change)="onEditClick($event)">
+        <option></option>
+        <option value="1">By Date</option>
+        <option value="2">By Name</option>
+      </select>
+    </section>
+  </div>
   <div class="results">
     <app-product-item
       *ngFor="let item of productList$ | async"

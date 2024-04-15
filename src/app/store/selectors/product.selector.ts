@@ -26,13 +26,11 @@ export const selectProductsError = createSelector(
     fromProducts.getProductsError
 );
 
-// get One favorite product by ID
-// export const selectProductById = createSelector(
-//     selectProducts,
-//     (products: Product[], props: { id: number }) =>
-//         products.find(product => product.id === props.id)
-// );
+export const selectProductByName = (keyword: string) => createSelector(
+    selectProducts, (products: Product[]) => products.filter(product => product.title.toLocaleLowerCase().includes(keyword.toLocaleLowerCase()))
+);
 
-export const selectProductById = (index: number) => createSelector(
-    selectProducts, (products: Product[]) => (products.find(product => product.id === index))
+export const sortProductByName = () => createSelector(
+    // should be done in service level
+    selectProducts, (products: Product[]) => products.map( a => a)
 );

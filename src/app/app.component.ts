@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Store, select } from '@ngrx/store';
 import * as fromRoot from './store/reducers/'
-import { isProductsLoaded, selectProductById, selectProducts, selectProductsError } from './store/selectors/product.selector';
+import { isProductsLoaded, selectProductByName, selectProducts, selectProductsError, sortProductByName } from './store/selectors/product.selector';
 import { loadProducts } from './store/actions/product.actions';
 import { Observable } from 'rxjs';
 
@@ -24,13 +24,21 @@ export class AppComponent implements OnInit {
   }
 
   set filterValue(value: string) {
-    console.log(this.filteredProducts$)
+    this.productList$ = this.store.pipe(select(selectProductByName(value)));
+    // console.log(this.productList$)
+    // this.filteredProducts$?.forEach(items => {
+    //   console.log(items)
+    // });
     this._filterValue = value;
-
   }
 
   get filterValue(): string {
     return this._filterValue;
+  }
+
+  onEditClick(sort: any) {
+    this.productList$ = sort === "1" ? this.store.pipe(select(sortProductByName())) : this.store.pipe(select(sortProductByName()));
+    console.log('skill name', sort.target.value)
   }
 
   props = {
@@ -41,7 +49,6 @@ export class AppComponent implements OnInit {
     this.isProductLoaded$ = this.store.pipe(select(isProductsLoaded))
     this.productList$ = this.store.pipe(select(selectProducts));
     this.loadProductError$ = this.store.pipe(select(selectProductsError));
-    this.filteredProducts$ = this.store.pipe(select(selectProductById(656)));
     this._filterValue = '';
   }
 
