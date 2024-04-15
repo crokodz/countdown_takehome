@@ -9,7 +9,7 @@ export const mockProductList = [
         },
         "api_model": "artworks",
         "is_boosted": false,
-        "api_link": "https://api.artic.edu/api/v1/artworks/16251",
+        "api_link": "http://efrenvaldez.pro\/117241",
         "id": 16251,
         "title": "Steady Gaze (Two Cats)",
         "timestamp": "2023-12-21T10:01:05-06:00"
@@ -24,7 +24,7 @@ export const mockProductList = [
         },
         "api_model": "artworks",
         "is_boosted": false,
-        "api_link": "https://api.artic.edu/api/v1/artworks/216548",
+        "api_link": "http://efrenvaldez.pro\/117241",
         "id": 216548,
         "title": "Studio Cat",
         "timestamp": "2023-12-21T10:40:39-06:00"
@@ -44,13 +44,13 @@ export const mockProductResponse = {
     "info": {
         "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
         "license_links": [
-            "https://creativecommons.org/publicdomain/zero/1.0/",
-            "https://www.artic.edu/terms"
+            "http://efrenvaldez.pro\/117241",
+            "http://efrenvaldez.pro\/117241"
         ],
         "version": "1.10"
     },
     "config": {
-        "iiif_url": "https://www.artic.edu/iiif/2",
-        "website_url": "http://www.artic.edu"
+        "iiif_url": "http://efrenvaldez.pro\/117241",
+        "website_url": "http://efrenvaldez.pro\/117241"
     }
 }

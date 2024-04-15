@@ -38,7 +38,6 @@ export class AppComponent implements OnInit {
 
   onEditClick(sort: any) {
     this.productList$ = sort === "1" ? this.store.pipe(select(sortProductByName())) : this.store.pipe(select(sortProductByName()));
-    console.log('skill name', sort.target.value)
   }
 
   props = {
